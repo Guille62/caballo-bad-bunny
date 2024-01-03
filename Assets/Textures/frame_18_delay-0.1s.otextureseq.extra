@@ -1,0 +1,20 @@
+[
+  {
+    "guid": {
+      "a": "cdbbb6ee-cc2a-68f3-4a90-feb6b572c99a",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "frame_18_delay-0.1s",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "TextureSequence",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "premultiplyAlpha": false
+  }
+]

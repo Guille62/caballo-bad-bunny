@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "13930f50-6d53-2e20-6d02-2f38e0cfd5aa",
+      "b": ""
+    },
+    "extraType": "ResItemVSSubgraph",
+    "name": "Draggable Image",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": "",
+    "assetPackageID": "7255444182825811969"
+  }
+]

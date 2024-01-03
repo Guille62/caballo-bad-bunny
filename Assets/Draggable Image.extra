@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "9c9e42c0-44f5-dd80-fc7b-8ac17136711f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Draggable Image",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
